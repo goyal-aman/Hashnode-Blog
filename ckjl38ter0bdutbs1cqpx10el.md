@@ -47,7 +47,7 @@ Each path is linked to an action inside the controller.
 The users path shows all users which is linked to the index action inside the controller.  Which matches the users index view.
 ![pic 10.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609915916169/boEpU5985.jpeg)
 
-# Concolusion
+# Conclusion
 Ruby on Rails is, as I think of it, is very similar to Django and very fun. I came across those tweets by [willjohnsonio](https://twitter.com/willjohnsonio) on Twitter in [this thread]() I couldn't resist sharing them here.
 <hr>
 PS: You can find him [here on twiiter](https://twitter.com/willjohnsonio) and here [here on dev ](https://dev.to/willjohnsonio), me [here on twitter](https://twitter.com/_goyalaman). And please share your thoughts below, maybe a Hii, It makes my day.
