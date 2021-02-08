@@ -5,23 +5,23 @@ Ruby on Rails is a full-stack web app building framework made with the Ruby prog
 
 Ruby has clean, simple syntax without tons of parenthesis, brackets, or semi-colons
 
-Github, Shopify, Calendly, ThePracticalDev, eggheadio & ConvertKit were built using Rails.
+GitHub, Shopify, Calendly, ThePracticalDev, eggheadio & ConvertKit were built using Rails.
 
 By the end, you will have a brief understanding of Ruby On Rails.
 
 1. Ruby on Rails is a full-stack web app building framework made with the Ruby programming language.
-Ruby has clean, simple syntax without tons of parenthesis, brackets, or semi-colons **Github**, **Shopify**, **Calendly**, **Dev.to** were built using Rails.
+Ruby has clean, simple syntax without tons of parenthesis, brackets, or semi-colons **GitHub**, **Shopify**, **Calendly**, **Dev.to** were built using Rails.
 ![pic 1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609915699257/i17cg9z2O.jpeg)
-2. Rails use the MVC(Model. View. Controller) programming pattern to organize and separate your code. 
+2. Rails use the MVC (Model. View. Controller) programming pattern to organize and separate your code. 
 This makes it easier to know where things are and how they are connected which gives you more time to focus on building features users need
 ![pic 2.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609915719653/xOrO6t54O.jpeg)
 
 3. Models represent the data in your apps. 
 You define models to make sure any new models match before being saved.
-You can also associate different models with each other. For example users and their comments and/or articles.
+You can also associate different models with each other. For example, users and their comments and/or articles.
 ![pic 3.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609915760275/Ur_bBQ8ph.jpeg)
 4. Views is what gets displayed to users. It's written just like plain HTML.
-You can you embedded Ruby(eRB) to put Ruby code inside of your views to display data from the database. You can display multiple users username writing just one line of code!
+You can you embedded Ruby(eRB) to put Ruby code inside of your views to display data from the database. You can display multiple user's username writing just one line of code!
 ![pic 4.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609915876255/z7ljzcKCF.jpeg)
 
 5. Controllers are where you tell your app what to do with your data and what to show to your views.
